@@ -1,0 +1,2 @@
+Following the tutorial program worked fine.
+No errors aside from incorrect test cases, did tinkering to get the fraction test case to be correct.
