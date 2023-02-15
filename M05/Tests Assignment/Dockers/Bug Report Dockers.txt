@@ -1,3 +1,0 @@
-Issues with getting docker to run; had to update by installing linux and a linux environment for windows.
-
-Problems in coding: due to conda's library being different than pip. Emoji library has no version as I can't get it to work with the version number from Anaconda. This may be the reason emojis don't show up in powershell, but they do show up in the docker logs, and in the IDE.
