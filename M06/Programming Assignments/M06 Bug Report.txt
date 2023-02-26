@@ -1,0 +1,5 @@
+Ex 13. Bit of trouble converting the retrieved date into a tuple, and then converting that tuple into a date time object. Through trial and error and some research ended up figuring it out.
+
+Ex 15.1
+
+Creating the function wasn't hard, but figuring out a way to print it was a bit harder. After looking through some of the examples in the chapter I saw that I could make it a list and on that random saved time append it to the list. Then print together using the .join() from ex 15-4. 
